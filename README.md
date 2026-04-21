@@ -3,7 +3,7 @@
 * [gnome-camera-controls-extension](https://github.com/antoinecellerier/gnome-camera-controls-extension) - GNOME Shell extension that surfaces v4l2 camera controls (exposure, brightness, white balance, auto-exposure…) in the top panel while the camera is actually in use. WirePlumber-driven live detection.
 
 ### E-ink displays
-* [librespot-epd-nowplaying](https://github.com/antoinecellerier/librespot-epd-nowplaying) - Naive "now playing" e-paper display driven by librespot.
+* [librespot-epd-nowplaying](https://github.com/antoinecellerier/librespot-epd-nowplaying) - Naive "now playing" e-paper display driven by librespot on a Raspberry Pi.
 * [picture-frame-preprocessor](https://github.com/antoinecellerier/picture-frame-preprocessor) - Image preprocessor for e-ink picture frames — crops and rescales photos and street art to fit the target panel.
 
 ### Lab & hardware tooling
@@ -18,7 +18,7 @@
 
 * [onedrive-album-download](https://github.com/antoinecellerier/onedrive-album-download) - Download images from OneDrive albums via the Microsoft Graph API.
 
-### Personal experiments — likely not useful to anyone else.
+### Personal experiments - likely not useful to anyone else.
 
-* [firebeetle-esp32-e-thermometer](https://github.com/antoinecellerier/firebeetle-esp32-e-thermometer) - Battery powered low power ESP32 e-ink room thermometer.
+* [firebeetle-esp32-e-thermometer](https://github.com/antoinecellerier/firebeetle-esp32-e-thermometer) - Battery powered low power ESP32 e-ink thermometer.
 * [emergent-behavior](https://github.com/antoinecellerier/emergent-behavior) - Multi-agent orchestrator where Claude Code agents collaborate through emergent coordination rather than a top-down plan.
