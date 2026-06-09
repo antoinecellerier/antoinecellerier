@@ -8,7 +8,7 @@
 
 ### Lab & hardware tooling
 
-* [dmm-tools](https://github.com/antoinecellerier/dmm-tools) - CLI and GUI for UNI-T and Voltcraft digital multimeters over USB (CP2110, CH9329, CH9325). Supports UT61E+/B+/D+, UT161, UT171, UT181A, UT803/804, UT8802/8803, VC-880, VC-890.
+* [dmm-tools](https://github.com/antoinecellerier/dmm-tools) - Linux, MacOS and Windows CLI and GUI for UNI-T and Voltcraft digital multimeters over USB. Supports UT61E+/B+/D+, UT161, UT171, UT181A, UT803/804, UT8802/8803, VC-880, VC-890.
 
 ### Games
 
