@@ -20,5 +20,5 @@
 
 ### Personal experiments - likely not useful to anyone else.
 
-* [firebeetle-esp32-e-thermometer](https://github.com/antoinecellerier/firebeetle-esp32-e-thermometer) - Battery powered low power ESP32 e-ink thermometer.
+* [lowpower-epaper-thermometer](https://github.com/antoinecellerier/lowpower-epaper-thermometer) - Battery powered low power ESP32 e-ink thermometer.
 * [emergent-behavior](https://github.com/antoinecellerier/emergent-behavior) - Multi-agent orchestrator where Claude Code agents collaborate through emergent coordination rather than a top-down plan.
