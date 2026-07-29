@@ -5,6 +5,7 @@
 ### E-ink displays
 * [librespot-epd-nowplaying](https://github.com/antoinecellerier/librespot-epd-nowplaying) - Naive "now playing" e-paper display driven by librespot on a Raspberry Pi.
 * [picture-frame-preprocessor](https://github.com/antoinecellerier/picture-frame-preprocessor) - Image preprocessor for e-ink picture frames — crops and rescales photos and street art to fit the target panel.
+* [lowpower-epaper-thermometer](https://github.com/antoinecellerier/lowpower-epaper-thermometer) - Battery powered low power ESP32 e-ink thermometer.
 
 ### Lab & hardware tooling
 
@@ -20,5 +21,4 @@
 
 ### Personal experiments - likely not useful to anyone else.
 
-* [lowpower-epaper-thermometer](https://github.com/antoinecellerier/lowpower-epaper-thermometer) - Battery powered low power ESP32 e-ink thermometer.
 * [emergent-behavior](https://github.com/antoinecellerier/emergent-behavior) - Multi-agent orchestrator where Claude Code agents collaborate through emergent coordination rather than a top-down plan.
