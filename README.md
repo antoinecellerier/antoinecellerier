@@ -1,5 +1,5 @@
 ### Audio & Linux desktop
-* [speaker-tuning-to-easyeffects](https://github.com/antoinecellerier/speaker-tuning-to-easyeffects) - Convert OEM Dolby Atmos speaker tuning data to EasyEffects presets or PipeWire filter-chain, so Linux gets the sound the hardware was tuned for.
+* [speaker-tuning-to-easyeffects](https://github.com/antoinecellerier/speaker-tuning-to-easyeffects) - Convert OEM Dolby Atmos speaker tuning data to EasyEffects presets or PipeWire filter-chains, so Linux gets the sound the hardware was tuned for.
 * [gnome-camera-controls-extension](https://github.com/antoinecellerier/gnome-camera-controls-extension) - GNOME Shell extension that surfaces v4l2 camera controls (exposure, brightness, white balance, auto-exposure…) in the top panel while the camera is actually in use. WirePlumber-driven live detection.
 
 ### E-ink displays
