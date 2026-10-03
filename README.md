@@ -9,7 +9,7 @@
 
 ### Lab & hardware tooling
 
-* [dmm-tools](https://github.com/antoinecellerier/dmm-tools) - Linux, MacOS and Windows CLI and GUI for UNI-T and Voltcraft digital multimeters over USB. Supports UT61E+/B+/D+, UT161, UT171, UT181A, UT803/804, UT8802/8803, VC-880, VC-890.
+* [dmm-tools](https://github.com/antoinecellerier/dmm-tools) - Multimeter logging and graphing app for Linux, Windows, macOS and Raspberry Pi. Works with UNI-T, ZOYI/ZOTEK, ANENG, Brymen, EEVblog, OWON and Voltcraft multimeters and clamp meters over USB and Bluetooth. Open-source GUI and CLI.
 
 ### Games
 
